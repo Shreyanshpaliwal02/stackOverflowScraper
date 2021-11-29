@@ -32,8 +32,9 @@ Uploading the CSV output into Pandas Dataframe and printing the first five eleme
 ![image](https://user-images.githubusercontent.com/92806875/143815277-11c78002-7475-43e7-a132-bb6c768c5c5d.png)
 
 Dependencies:
-requests
-HTML
+requests,
+HTML,
 pandas
+Environment: Jupyter Notebook
 
 Tutorial Can be found here: "https://www.youtube.com/playlist?list=PLEsfXFp6DpzQjDBvhNy5YbaBx9j-ZsUe6"
