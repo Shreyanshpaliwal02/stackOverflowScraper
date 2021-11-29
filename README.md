@@ -4,9 +4,10 @@ Description: This is simple Python and HTML requests project to search StackOver
 Utility: Using this project, the user can get thousands of results in few minutes automatically. The scrape results i.e., the questions(for eg: "How do JavaScript closures work?") related to a particular tag(Eg- "Python", "C++", "Machine Learning" etc) can be answered by the user for enhancing the knowledge of the subjects. 
 
 FINAL RESULT:
-![image](https://user-images.githubusercontent.com/92806875/143820854-8ba428f1-1420-4e7c-b0f8-512238a93d4f.png)
+![image](https://user-images.githubusercontent.com/92806875/143820854-8ba428f1-1420-4e7c-b0f8-512238a93d4f.png)...
 
 PROCEDURE:
+
 Selecting the base Url to be scraped:
 ![image](https://user-images.githubusercontent.com/92806875/143813895-f84b778b-04d3-4b05-9e9d-8f519c8d1127.png)
 
