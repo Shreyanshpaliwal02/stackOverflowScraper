@@ -35,4 +35,5 @@ Dependencies:
 requests
 HTML
 pandas
+
 Tutorial Can be found here: "https://www.youtube.com/playlist?list=PLEsfXFp6DpzQjDBvhNy5YbaBx9j-ZsUe6"
