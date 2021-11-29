@@ -31,8 +31,12 @@ Uploading the CSV output into Pandas Dataframe and printing the first five eleme
 
 Dependencies:
 •requests
+
 •HTML
+
 •Pandas
+
+
 Environment: Jupyter Notebook
 
 Reference Can be found here: "https://www.youtube.com/playlist?list=PLEsfXFp6DpzQjDBvhNy5YbaBx9j-ZsUe6"
