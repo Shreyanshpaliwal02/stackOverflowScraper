@@ -1,5 +1,5 @@
 # stackOverflowScraper
-Description: This is a simple Python and HTML requests project to search StackOverflow.com for a large number of queries at once.
+Description: This is a simple Python and HTML project to search StackOverflow.com for a large number of queries at once.
 
 Utility: Using this project, the user can get thousands of results in few minutes automatically. The scrape results i.e., the questions(for eg: "How do JavaScript closures work?") related to a particular tag(Eg- "JavaScript", "Python", "C++" etc) can be answered by the user for enhancing the knowledge of the subjects. 
 
